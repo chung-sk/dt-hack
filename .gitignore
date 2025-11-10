@@ -15,3 +15,12 @@ CLAUDE.md
 /data/3d_context
 
 .env
+/urban_tree_planting/config/__pycache__
+/urban_tree_planting/core/__pycache__
+/urban_tree_planting/models/__pycache__
+/urban_tree_planting/pipeline
+/urban_tree_planting/utils/__pycache__
+__pycache__/config.cpython-311.pyc
+/data
+.DS_Store
+.DS_Store
